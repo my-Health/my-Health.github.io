@@ -1,0 +1,15 @@
+.form-group>label:before{
+  	content: "* ";
+	color: red;
+	font-weight: bold;
+ }
+.form-group>.col-md-4.x {
+   margin-top: 15px;
+   text-align: center;
+}
+.form-control.x{
+   font-weight: normal;
+}
+.help-block {
+	margin-bottom: 0;
+}

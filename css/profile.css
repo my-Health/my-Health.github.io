@@ -1,0 +1,30 @@
+.mealtd {
+   background-color:cornflowerblue;
+   color:white;
+   text-align:center;
+}
+.caltd {
+   color:mediumseagreen;
+	background: white;
+   text-align:center;
+}
+td[colspan="2"] {
+   text-align: center;
+	font-style: italic;
+	font-weight:bold;
+	color:#69517b
+}
+#chooser {
+   margin-bottom: 20px;
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button {
+	padding: 0;
+	margin: 0;
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button:hover {
+	background: white;
+	border-color: transparent;
+}
+.spacer {
+	height: 10px;
+}
